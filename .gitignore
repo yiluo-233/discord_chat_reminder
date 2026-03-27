@@ -1,0 +1,4 @@
+.env
+last_id.txt
+script_logs
+venv/
